@@ -1,0 +1,5 @@
+03.28.2021
+I have no ripped this bullshit apart and put it back together 3 times.
+I can get the right results when hardcoding the resistors to 0xEAEA, still having trouble when trying to read from EEPROM. 
+
+Going to try the EEPROM again from the start.
